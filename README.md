@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miratshah27
-- 👀 I’m interested in Java, Kotlin, Android development.
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in Java, Kotlin, Android development, WEB3.0❤️❤️.
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me Contact me anytime at miratshah27@gmail.com
 
 <!---
